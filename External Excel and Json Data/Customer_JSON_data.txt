@@ -26,7 +26,7 @@
             "Country": "USA",
             "Cust_Country_Code": "88",
             "Cust_Mobile_Number": "123456788",
-            "Cust_EmailID": "francis@gmail.com",
+            "Cust_EmailID": "francise4@gmail.com",
             "Cust_Created_At": "10/10/19",
             "Cust_Modified_At": "10/11/19"
         },
@@ -56,7 +56,7 @@
             "Country": "USA",
             "Cust_Country_Code": "88",
             "Cust_Mobile_Number": "123456788",
-            "Cust_EmailID": "bill@outlook.com",
+            "Cust_EmailID": "bill64@outlook.com",
             "Cust_Created_At": "10/12/19",
             "Cust_Modified_At": "10/13/19"
         }

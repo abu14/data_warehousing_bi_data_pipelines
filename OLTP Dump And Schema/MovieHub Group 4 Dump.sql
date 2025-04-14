@@ -47,6 +47,10 @@ CREATE TABLE `Booking` (
 --
 -- Dumping data for table `Booking`
 --
+--
+-- Raw data dumb of output from Booking
+--
+
 
 LOCK TABLES `Booking` WRITE;
 /*!40000 ALTER TABLE `Booking` DISABLE KEYS */;
